@@ -1,0 +1,24 @@
+direktorij 'movieshop' => php projekt
+.zip datoteka 'MovieShop.zip' => AndroidStudio projekt
+
+
+ADMIN:
+	gasper.kocjaz@movie.si <- gasperpass
+	
+PRODAJALCI:
+	mitja.misic@movie.si <- mitjapass
+	peter.prosenc@movie.si <- peterpass
+	
+STRANKE:
+	ana.ambrozic@email.si <- anapass
+	brane.bajuk@email.si <- branepass
+	cene.cujnik@email.si <- cenepass
+	
+	
+INICIALIZACIJA
+premakni se v mapo /movieshop/init in poženi skripto init.sh
+(morda potrebno popraviti dovoljenja za init.sh in mapo z NetBeans projektom)
+
+
+GESLA ZA UVOZ CERTIFIKATOV
+ep

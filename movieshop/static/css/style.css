@@ -1,0 +1,122 @@
+label {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    text-align: right;
+    width: 400px;
+    line-height: 26px;
+    margin-bottom: 10px;
+}
+
+input {
+    height: 20px;
+    flex: 0 0 250px;
+    margin-left: 10px;
+}
+
+textarea {
+    height: 200px;
+    flex: 0 0 260px;
+    margin-left: 10px;
+}
+
+.input_btn {
+    height: 25px;
+    flex: 0 0 260px;
+    margin-left: 10px;
+}
+
+
+#add_movie_btn {
+    margin: 1em;
+    padding-bottom: 1em;
+}
+
+.horizontal_btn {
+    display: inline-block;
+}
+
+.row {
+
+}
+
+
+#main {
+    margin-right: auto;
+    width: 70%;
+}
+
+.short_input {
+    width: 30px;
+}
+
+
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+  margin-bottom: 2em;
+}
+
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+.cart_item {
+    display: inline-block;
+    text-align: center;
+    width: 200px;
+    min-height: 160px;
+    margin: 1em;
+    border: 1px solid black;
+    vertical-align: top;
+}
+
+
+.edit_div {
+    margin-bottom: 3em;
+}
+
+
+
+.list_div {
+    width: 60%;
+}
+
+.div_item {
+    position: relative;
+    background-color: #F0F0F0;
+    padding: 20px;
+    margin: 1em;
+}
+
+.list_btn {
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    right: 0;
+    margin-right: 5em;
+}
+
+
+
+.thin {
+    font-size: 12px;
+    color: #404040;
+}
+
+
+
+a {
+    text-decoration: none;
+}
